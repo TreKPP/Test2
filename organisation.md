@@ -138,11 +138,11 @@ Voici quelques expression fréquemment utilisées en japonais :
 
 | Français | Japonais (Poli) | Translittération | Japonais (Amical) | Translittération |
 | --- | --- | --- | --- | --- |
-| Bonjour | こんにちは | Konnichiwa | よー | Yо̄ |
-| Bon matin | おはようございます | Ohayо̄ gozaimasu | おはよう | Ohayо̄ |
-| Bonsoir | こんばんは | Konbanwa | よー | Yо̄ |
+| Bonjour | こんにちは | Konnichiwa | よー | Yoo |
+| Bon matin | おはようございます | Ohayou gozaimasu | おはよう | Ohayou |
+| Bonsoir | こんばんは | Konbanwa | よー | Yoo |
 | Bonne nuit | おやすみなさい | Oyasuminasai | おやすみ | Oyasumi |
-| Merci | ありがとうございます | Arigatо̄ gozaimasu | ありがとう | Arigatо̄ 
+| Merci | ありがとうございます | Arigatou gozaimasu | ありがとう | Arigatou 
 | Excusez-moi | すみません | Sumimasen | すまん | Suman |
 | Désolé | すみません | Sumimasen | ごめん | Gomen |
 | De rien/Il n'y a pas de quoi | どういたしまして | Dou itashimashite | 気にしないで | Ki ni shinai de |

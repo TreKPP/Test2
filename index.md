@@ -6,6 +6,6 @@ Si vous souhaitez passer immédiatement à l'index des langues, cliquez [ici](in
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Alors qu'attendez-vous pour apprendre une autre langue? Lancez-vous!
+## Alors, qu'attendez-vous pour apprendre une autre langue? Lancez-vous!
 
 Pour vous rendre sur l'index des langues cliquez [ici](indexLangues.md)!

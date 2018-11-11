@@ -1,6 +1,6 @@
 # Exemple d'organisation d'une page
 ---
-[Retour à la page principale](index.md)
+[Retour à l'index](indexLangues.md)
 # La langue japonaise
 
 ## En bref
@@ -131,7 +131,7 @@ Certains caractères ont des prononciations irrégulières :
 
 Les katakanas sont utilisés principalement pour les mots d'origine étrangère et les onomatopées.
 
-## La formalité 
+## Poli ou amical? 
 
 La langue japonaise est très caractérisée par la formalité du langage. En effet, selon le niveau de politesse que l'on souhaite atteindre, différentes conjugaisons des verbes et adjectifs seront utilisées, différentes façons de référer à nous-même ou l'interlocuteur, et différents mots seront utilisés. 
 
@@ -210,7 +210,7 @@ Nous devons utiliser le langage formel lorsque l'on s'adresse à nos supérieurs
 Nous pouvons utiliser le langage informel avec nos amis et avec des personnes plus jeunes que nous.
 Les femmes utilisent le langage formel plus souvent, même avec des personnes plus jeunes ou avec des amis.
 
-## Expressions utilisées couramment
+## Bonjour, merci, désolé... Des expressions fréquemment utilisées!
 
 Voici quelques expression fréquemment utilisées en japonais : 
 

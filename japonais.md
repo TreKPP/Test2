@@ -133,7 +133,7 @@ Certains caractères ont des prononciations irrégulières :
 
 Les katakanas sont utilisés principalement pour les mots d'origine étrangère et les onomatopées.
 
-## Poli ou amical? 
+## Parler à son patron ou son meilleur ami... Une différence importante!
 
 La langue japonaise est très caractérisée par la formalité du langage. En effet, selon le niveau de politesse que l'on souhaite atteindre, différentes conjugaisons des verbes et adjectifs seront utilisées, différentes façons de référer à nous-même ou l'interlocuteur, et différents mots seront utilisés. 
 

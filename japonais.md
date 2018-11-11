@@ -14,7 +14,7 @@
 
 Le japonais comporte divers niveaux de formalité selon à qui l'on s'adresse.
 
-## Je une pomme mange... L'ordre des mots SOV!
+## Je pomme mange... L'ordre des mots SOV!
 
 Une phrase de base (Sujet, Verbe, Objet) en français sera écrite sous l'ordre SOV (Sujet, Objet, Verbe) en japonais. 
 Prenons pour exemple la phrase « Je mange une pomme. » Cette phrase sera écrite comme suit :
@@ -26,6 +26,8 @@ Prenons pour exemple la phrase « Je mange une pomme. » Cette phrase sera écri
 (Des espaces entre les mots ont été insérés pour augmenter la clarté, car en japonais il n'y a normalement aucun espace.) 
 
 Mot par mot, cette phrase se traduit par « <span style="color:blue">Je (sujet)</span> <span style="color:red">pomme (objet)</span> <span style="color:green">mange</span>. »
+
+Les mots n'ont d'ailleurs pas de genre ni de nombre en japonais. (Sauf quelques exceptions)
 
 ## À vos marques, prêts... écrivez!
 

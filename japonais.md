@@ -69,7 +69,30 @@ Voici les hiraganas :
 |||れ||め|へ|ね|て|せ|け|え|**e**|
 ||を|ろ|よ|も|ほ|の|と|そ|こ|お|**o**|
 
-Ils sont utilisés pour les mots d'origine japonaise qui n'ont pas de kanjis et pour les conjugaisons des verbes principalement.
+Les hiraganas accentués : 
+
+| p | b | d | z | g | - |
+| --- | --- | --- | --- | --- | --- |
+|ぱ|ば|だ|ざ|が|**a**|
+|ぴ|び|ぢ|じ|ぎ|**i**|
+|ぷ|ぶ|づ|ず|ぐ|**u**|
+|ぺ|べ|で|ぜ|げ|**e**|
+|ぽ|ぼ|ど|ぞ|ご|**o**|
+
+**Attention** 
+
+Certains caractères ont des prononciations irrégulières :
+
+- Si (し) -> Shi
+- Ti (ち) -> Chi
+- Tu (つ) -> Tsu
+- Hu (ふ) -> Fu
+- Wo (を) -> O
+- Zi (じ) -> Ji
+- Di (ぢ) -> Ji
+- Du (ず) -> Dzu
+
+Les hiraganas sont utilisés pour les mots d'origine japonaise qui n'ont pas de kanjis et pour les conjugaisons des verbes principalement.
 
 #### Katakana 
 
@@ -83,7 +106,30 @@ Voici les katakanas :
 |||レ||メ|ヘ|ネ|テ|セ|ケ|エ|**e**|
 ||ヲ|ロ|ヨ|モ|ホ|ノ|ト|ソ|コ|オ|**o**|
 
-Ils sont utilisés principalement pour les mots d'origine étrangère et les onomatopées.
+Les katakanas accentués : 
+
+| p | b | d | z | g | - |
+| --- | --- | --- | --- | --- | --- |
+|パ|バ|ダ|ザ|ガ|**a**|
+|ぴ|ビ|ヂ|ジ|ギ|**i**|
+|プ|ブ|ヅ|ズ|グ|**u**|
+|ペ|ベ|で|ゼ|ゲ|**e**|
+|ポ|ボ|ド|ゾ|ゴ|**o**|
+
+**Attention** 
+
+Certains caractères ont des prononciations irrégulières :
+
+- Si (シ) -> Shi
+- Ti (チ) -> Chi
+- Tu (ツ) -> Tsu
+- Hu (フ) -> Fu
+- Wo (ヲ) -> O
+- Zi (ジ) -> Ji
+- Di (ヂ) -> Ji
+- Du (ヅ) -> Dzu
+
+Les katakanas sont utilisés principalement pour les mots d'origine étrangère et les onomatopées.
 
 ## La formalité 
 
